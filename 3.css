@@ -1,0 +1,89 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+.pimg1{
+    background-image: url(WhatsApp\ Image\ 2024-09-09\ at\ 21.53.48_f7a032a1.jpg);
+    min-height: 100%;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+}
+.pimg2{
+    background-image: url(WhatsApp\ Image\ 2024-09-09\ at\ 21.53.46_2f36e19e.jpg);
+    min-height: 400px;
+
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+}
+.pimg3{
+    background-image: url(WhatsApp\ Image\ 2024-09-09\ at\ 21.53.45_b298ce47.jpg);
+    min-height: 400px;
+    background-attachment: fixed;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+.ptext{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 27px;
+    letter-spacing: 8px;
+    top: 50%;
+    text-transform: uppercase;
+}
+.textBg{
+    background-color: #313534;
+    color: white;
+    padding: 20px;
+}
+.section{
+    padding: 60px 80px;
+    text-align: center;
+}
+.section-light{
+    background-color: #f4f4f4;
+    color: #666;   
+}
+.textBgg{
+    background-color: transparent;
+    color: white;
+    padding: 20px;
+    font-size: 50px;
+}
+.section1{
+    padding: 60px 80px;
+    text-align: center;
+}
+.section-light1{
+    background-color: #313534;
+    color: #fff;   
+}
+.ptext{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 27px;
+    letter-spacing: 8px;
+    top: 50%;
+    text-transform: uppercase;
+}
+h2{
+    font-size:25px ;
+}
+
+
+
